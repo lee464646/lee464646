@@ -2,4 +2,4 @@
 
 
 
-<img src="cat.jpg" width="1920" height="400">
+<img src="image/cat_1.jpg">
