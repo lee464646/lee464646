@@ -2,4 +2,4 @@
 
 
 
-<img src="image/cat_2.jpg">
+<img src="image/cat_3.jpg">
